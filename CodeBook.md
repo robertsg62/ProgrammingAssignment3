@@ -1,5 +1,7 @@
 # Code Book
 
+## Getting and Cleaning Data - Programming Assignment 3
+
 ## Subject and Activity
 
 These variables identify the unique subject/activity pair the variables relate to:

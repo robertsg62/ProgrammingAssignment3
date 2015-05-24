@@ -1,3 +1,5 @@
+# robertsg62 - ProgrammingAssignment3
+
 # Step1. Merges the training and the test sets to create one data set.
 trainData <- read.table("./UCI_HAR_Dataset/train/X_train.txt")
 dim(trainData) # 7352*561

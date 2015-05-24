@@ -1,8 +1,8 @@
-# Data-Cleaning-Assignment
+# Getting and Cleaning Data - Programming Assignment 3
 
 ##Introduction:
 
-This document explains a project done by me as part of assignment of ONLINE  Course "Getting Data and Cleaning" offered by Johns Hopkins University through Coursera.com.
+This document explains the part of the "Getting Data and Cleaning" course.
 
 ##Objective:
 
